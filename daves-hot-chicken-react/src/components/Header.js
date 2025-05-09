@@ -16,7 +16,7 @@ const Header = () => {
       <Navbar bg="white" expand="lg" className="shadow-sm py-3" expanded={expanded}>
         <Container>
           <Navbar.Brand as={Link} to="/" className="d-flex align-items-center">
-            <img src="/daveshotchickenlogo.png" alt="Dave's Hot Chicken Logo" height="50" className="me-2" />
+            <img src="/images/logo.png" alt="Dave's Hot Chicken Logo" height="50" className="me-2" />
             <span className="fw-bold text-primary">Dave's Hot Chicken</span>
           </Navbar.Brand>
 
